@@ -1,25 +1,2 @@
-<header>
-<title>proving dad wrong </title>
-</header>
-<body>
-<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere earum, quam cumque voluptas ut necessitatibus fugit est consequuntur culpa repudiandae delectus, ipsa aperiam quidem velit nihil cupiditate illo modi accusamus.</p>
-<br><br>
-<p id="p2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi dignissimos corporis earum dolores magnam deserunt suscipit expedita voluptas impedit explicabo? Dolorem odio neque adipisci ducimus architecto at molestias excepturi sit?</p>
-<style>
-p{
-font-size: 30px;
-}
-p{
-font-family: 'Times New Roman', Times, serif;
-}
-p{
-font-weight: 500;
-}
-p{
-font-size: xx-large;
-}
-p{
-text-align:center;
-}
 
-</style>
+
